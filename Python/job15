@@ -1,0 +1,7 @@
+"""Le programme devra contenir une fonction qui prend en
+paramètres une variable prenom et une variable nom."""
+
+def PrenomNom(prenom, nom):
+    print("Bonjour", prenom, nom)
+
+PrenomNom("anais, gilg")

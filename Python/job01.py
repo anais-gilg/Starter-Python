@@ -1,0 +1,1 @@
+print("La Plateforme_")
